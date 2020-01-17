@@ -1,3 +1,7 @@
+/*"Hello world", my first program
+Name: thanhloi Le
+Collaborator: Olivier Niyonshuti Mizero
+*/
 #include <stdio>
 
 int main(void){
